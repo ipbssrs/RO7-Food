@@ -1,4 +1,4 @@
-# SSRS RO7 - Food Research Group <a href="https://ssrs.ipb.ac.id/ro-7-food/"><img src=
+# SSRS RO7 - Food Research Group <a href="https://ssrs.ipb.ac.id/ro-7-food/">
 <br />
 
 ## `Overview`
