@@ -6,16 +6,26 @@
 SSRS RO7 - Food Research Group is a research group of IPB SSRS Association
 
 ## `Research Team`
-  - **Furaida Alya Muna** (RO Coordinator), _Department of Food Science and Technology, Faculty of Agricultural Engineering, IPB University_
+  - **Furaida Alya Muna** (Coordinator), _Department of Food Science and Technology, Faculty of Agricultural Engineering, IPB University_
+  - **Dewi Zulfa Nur Rohmah** (Secretary), _Department of Plant Protection, Faculty of Agriculture, IPB University_
+  - **Muhammad Reihan Qimnastiar RN* (Member), _Department of Plant Agronomy and Horticulture, Faculty of Agriculture, IPB University_
+  - **Yunila Nur Rahma** (Member), _Department of Plant Agronomy and Horticulture, Faculty of Agriculture, IPB University_
+  - **Muhamad Tenzin Ferdiansyah** (Member), _Department of Plant Agronomy and Horticulture, Faculty of Agriculture, IPB University_
+  - **Ananda Aulia** (Member), _Department of Food Science and Technology, Faculty of Agricultural Engineering, IPB University_
+
+## `Project`
+
+## `Progress`
+
+## `Publication`
 
 __#bab__
 __##subab__
 __###subsubbab__
 ________________________________________________________________________________________________________________________________________________________
-
 _
-<br/> CP: ....@gmail.com (*....Furai .....*)<img src="https://github.com/ipbssrs/ipbssrs/blob/e06c45804cf17ab573e55ff856c4c3b8bcf81b8e/logo-ssrs/Dir_Riset.png" align="right" width="33%" />
-<br/> SSRS RO15 - Coastal & Marine Research Group
+<br/> CP: furalpen@gmail.com (*Furaida Alya Muna*)<img src="https://github.com/ipbssrs/ipbssrs/blob/e06c45804cf17ab573e55ff856c4c3b8bcf81b8e/logo-ssrs/Dir_Riset.png" align="right" width="33%" />
+<br/> SSRS RO7 - Food Research Group
   <br/> Center for Strategic Research Incubation
   <br/> **Directorate of Strategic Scientific Research**
   <br/> Deputy III - Coordination of Research Development 
